@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didierpachas" alt="didierpachas" /></a> </p>
 
-- 🔭 I’m currently working in [iVisa](https://ivisa.breezy.hr/)
+- 🔭 I’m currently working in [Remotesome](https://www.remotesome.com/)
 
 - 🌱 I’m currently learning **JavaScript (NodeJS, ReactJS) and Java**
 
