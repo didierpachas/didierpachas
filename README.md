@@ -1,25 +1,68 @@
 <h1 align="center">Hi 👋, I'm Didier</h1>
-<h3 align="center">A passionate Tech Recruiter</h3>
+<h3 align="center">Technical Recruiter building AI-powered recruiting systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didierpachas" alt="didierpachas" /></a> </p>
+---
 
-- 🔭 I’m currently working in [Remotesome](https://www.remotesome.com/)
+## About Me
 
-- 🌱 I’m currently learning **JavaScript (NodeJS, ReactJS) and Java**
+- 10+ years in recruiting (8+ in tech), focused on scaling engineering teams for US companies  
+- I combine **technical recruiting + automation + AI** to improve hiring speed and quality  
+- Built internal systems that reduce manual recruiting work by ~98%  
+- Strong focus on **technical vetting, sourcing strategy, and high-signal candidate evaluation**  
 
-- 💬 Ask me about **Tech Recruitment, LATAM market, Recruitment Strategies**
+---
 
-- 📫 How to reach me **didier@ec2hire.com**
+## What I Do
 
-- ⚡ Fun fact **I'm in love with technology!**
+- 🔍 Source and close senior engineers across LATAM (Backend, Frontend, Data, DevOps)  
+- 🧠 Conduct **deep technical screenings** focused on problem-solving and system thinking  
+- ⚙️ Build **AI-powered workflows** to automate recruiting operations  
+- 📊 Optimize hiring pipelines for speed, quality, and consistency  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Featured Project
+
+### AI-Powered Resume Processing Pipeline
+- Automated end-to-end workflow: email → AI parsing → formatted resume → delivery  
+- Converts raw resumes into **anonymized, client-ready profiles**  
+- Uses structured parsing, prompt validation, and document generation  
+- Includes batching, retry logic, and fallback handling for reliability  
+- Reduced manual work by ~98% and enabled near-instant turnaround  
+
+(Full project details in pinned repositories)
+
+---
+
+## Tech & Tools
+
+- **Automation & AI:** JavaScript (Apps Script), LLM APIs, Prompt Engineering  
+- **Recruiting:** Ashby, Greenhouse, Lever, SeekOut, LinkedIn Recruiter  
+- **Technical Domains:** Backend, Cloud, Data Engineering, AI/ML  
+
+---
+
+## Connect with me
+
 <p align="left">
-<a href="https://twitter.com/didier_pachas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="didier_pachas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/didierpachas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/didierpachas/" height="30" width="40" /></a>
+<a href="mailto:dpachas@truelogic.io">📧 dpachas@truelogic.io</a><br/>
+<a href="https://wa.me/51944362538" target="_blank">💬 WhatsApp</a><br/>
+<a href="https://linkedin.com/in/didierpachas/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://twitter.com/didier_pachas" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Philosophy
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=didierpachas&show_icons=true&locale=en&layout=compact" alt="didierpachas" /></p>
+I treat recruiting as a **system, not a workflow**.
+
+The goal is simple:
+- reduce noise  
+- increase signal  
+- move fast without lowering the bar  
+
+---
